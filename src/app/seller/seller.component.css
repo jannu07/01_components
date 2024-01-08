@@ -1,0 +1,17 @@
+.loginForm{
+    width: 500px;
+    margin: auto;
+}
+.formData input{
+    width: 100%;
+}
+.formData input{
+    margin-bottom: 10px
+}
+.formBtn{
+    /* margin: auto; */
+    text-align: center;
+}
+.formBtn button{
+    width: 100%;
+}
